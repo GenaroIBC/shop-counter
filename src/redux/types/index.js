@@ -1,0 +1,5 @@
+export const INCREMENT_ONE = "INCREMENT_ONE";
+export const INCREMENT_FIVE = "INCREMENT_FIVE";
+export const DECREMENT_ONE = "DEREMENT_ONE";
+export const DECREMENT_FIVE = "DECREMENT_FIVE";
+export const RESET = "RESET";
