@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { fetchRequest } from "../../assets/helpers/fetchRequest";
+import { fetchRequest } from "../../helpers/fetchRequest";
 import { Card } from "./card/Card";
 import { CrudForm } from "./crud-form/CrudForm";
 
